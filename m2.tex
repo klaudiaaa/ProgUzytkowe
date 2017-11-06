@@ -27,7 +27,7 @@
 \frac{\lim^{n \to 4}{(1+}\frac{1}{n})^n}{\sum {k}({\frac{1}{n}})}
 \end{equation}
 
-£atwo równanie 1 jest doprowadziæ do 2
+Latwo rownanie 1 jest doprowadzic do 2
 
 \begin{equation}
 \label{3}
@@ -65,6 +65,22 @@ b_{K} \\
 \STATE{$iter \leftarrow 0$}
 \FOR{i = 1, 2, ..., card\{A\}}
 \FOR{j = 1, 2, ..., k}
+\STATE{$S^{c_j } (a)=S_{i} ^ {c_j} (a)$}
+\IF{$a \not \in A'$}
+\item {$A' \leftarrow\ a$}
+\item{$iter \leftarrow iter+1$}
+\IF{$iter=fixed\ number\ of\ the\ best\ genes$}
+\item{BREAK}
+\ENDIF
+\ENDIF
+\ENDFOR
+\IF{$iter = fixed\ number\ of\ the\ best\ genes$}
+\item{BREAK}
+\ENDIF
+\ENDFOR
+\RETURN{$A ' $}
+\end {algorithmic}
+
 \end{algorithmic}
 
 

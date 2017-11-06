@@ -1,12 +1,18 @@
-This is LuaTeX, Version beta-0.70.1-2011080216 (rev 4277)  (format=lualatex 2017.10.19)  24 OCT 2017 11:03
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=latex 2015.2.27)  31 OCT 2017 09:24
+entering extended mode
 **m2.tex
-(D:/iokr/ProgUzytkowe/m2.tex
+(D:\iokr\ProgUzytkowe\m2.tex
 LaTeX2e <2011/06/27>
-LuaTeX adaptation of babel <v3.8l-luatex-1.4> and hyphenation patterns for engl
-ish, loaded.
-("C:/Program Files (x86)/MiKTeX 2.9/tex/latex/base/article.cls"
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, arabic, armenian, assamese, basque, bengali
+, bokmal, bulgarian, catalan, coptic, croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, galic
+ian, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, icelandic, indonesian, interlingua, irish, italian,
+ kannada, kurmanji, lao, latin, latvian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, ng
+erman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, romanian, russian, sanskrit, serbian, slovak, s
+lovenian, spanish, swedish, swissgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usenglishm
+ax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-("C:/Program Files (x86)/MiKTeX 2.9/tex/latex/base/size12.clo"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
 File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -21,19 +27,18 @@ File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(C:/Users/local/AppData/Roaming/MiKTeX/2.9/tex/latex/polski/polski.sty
+(C:\Users\local\AppData\Roaming\MiKTeX\2.9\tex\latex\polski\polski.sty
 Package: polski 2008/02/24 v1.3.3 Polish language package
 
 Document language package `polski' v1.3.3 <2008/02/24>
 \l@nohyphenation=\language70
    Switching to Polish text encoding and Polish maths fonts.
-("C:/Program Files (x86)/MiKTeX 2.9/tex/latex/base/ot4enc.def"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ot4enc.def"
 File: ot4enc.def 2005/09/27 v1.99g Standard LaTeX file
 )
 LaTeX Font Info:    Try loading font information for OT4+cmr on input line 346.
 
-
-(C:/Users/local/AppData/Roaming/MiKTeX/2.9/tex/latex/polski/ot4cmr.fd
+(C:\Users\local\AppData\Roaming\MiKTeX\2.9\tex\latex\polski\ot4cmr.fd
 File: ot4cmr.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
@@ -50,7 +55,6 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT4/cmr/bx/it on input line 346.
 LaTeX Font Info:    Encoding `OT1' has changed to `OT4' for symbol font
 (Font)              `operators' in the math version `normal' on input line 346.
-
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT4/cmr/m/n on input line 346.
 LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
@@ -68,19 +72,18 @@ LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/cmsy/b/n --> OMS/plsy/b/n on input line 346.
 )
-("C:/Program Files (x86)/MiKTeX 2.9/tex/latex/base/inputenc.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 
-("C:/Program Files (x86)/MiKTeX 2.9/tex/latex/base/utf8.def"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\utf8.def"
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
-
-("C:/Program Files (x86)/MiKTeX 2.9/tex/latex/base/t1enc.dfu"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
 File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -229,8 +232,7 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 )
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
-
-("C:/Program Files (x86)/MiKTeX 2.9/tex/latex/base/ot1enc.dfu"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
 File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -261,7 +263,7 @@ File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-("C:/Program Files (x86)/MiKTeX 2.9/tex/latex/base/omsenc.dfu"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
 File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -287,12 +289,13 @@ Now handling font encoding OT4 ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(C:/Users/local/AppData/Roaming/MiKTeX/2.9/tex/latex/algorithms/algorithmic.sty
+(C:\Users\local\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithms\algorithmic.sty
 Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
-("C:/Program Files (x86)/MiKTeX 2.9/tex/latex/base/ifthen.sty"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
-("C:/Program Files (x86)/MiKTeX 2.9/tex/latex/graphics/keyval.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks16
 )
@@ -302,8 +305,7 @@ Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \c@ALC@depth=\count90
 \ALC@tlm=\skip43
 \algorithmicindent=\skip44
-)
-(D:/iokr/ProgUzytkowe/m2.aux)
+) (D:\iokr\ProgUzytkowe\m2.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
@@ -320,19 +322,17 @@ LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Try loading font information for OML+plm on input line 12.
 
-(C:/Users/local/AppData/Roaming/MiKTeX/2.9/tex/latex/polski/omlplm.fd
+(C:\Users\local\AppData\Roaming\MiKTeX\2.9\tex\latex\polski\omlplm.fd
 File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    Try loading font information for OMS+plsy on input line 12.
 
-
-(C:/Users/local/AppData/Roaming/MiKTeX/2.9/tex/latex/polski/omsplsy.fd
+(C:\Users\local\AppData\Roaming\MiKTeX\2.9\tex\latex\polski\omsplsy.fd
 File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    Try loading font information for OMX+plex on input line 12.
 
-
-(C:/Users/local/AppData/Roaming/MiKTeX/2.9/tex/latex/polski/omxplex.fd
+(C:\Users\local\AppData\Roaming\MiKTeX\2.9\tex\latex\polski\omxplex.fd
 File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    External font `plex10' loaded for size
@@ -371,7 +371,7 @@ LaTeX Font Info:    External font `plex10' loaded for size
 l.21 \end{equation}
                    
 Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn''t ask for it.
+I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
@@ -401,123 +401,83 @@ my insertion and my current dilemma will both disappear.
 
 LaTeX Font Info:    External font `plex10' loaded for size
 (Font)              <12> on input line 24.
-! String contains an invalid utf-8 sequence.
-l.30 
-     £atwo równanie 1 jest doprowadziæ do 2
-A funny symbol that I can't read has just been (re)read.
-Just continue, I'll change it to 0xFFFD.
-
-! String contains an invalid utf-8 sequence.
-l.30 £atwo r
-            ównanie 1 jest doprowadziæ do 2
-A funny symbol that I can't read has just been (re)read.
-Just continue, I'll change it to 0xFFFD.
-
-! String contains an invalid utf-8 sequence.
-l.30 £atwo równanie 1 jest doprowadzi
-                                     æ do 2
-A funny symbol that I can't read has just been (re)read.
-Just continue, I'll change it to 0xFFFD.
-
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 66.
-("C:/Program Files (x86)/MiKTeX 2.9/tex/latex/base/omscmr.fd"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 66.
+ [1
 
+]
 
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.68 \end{algorithmic}
-                      
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: \begin{ALC@g} on input line 67 ended by \end{algorithmic}.
+! LaTeX Error: \begin{document} ended by \end{list}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.68 \end{algorithmic}
+l.84 \end{algorithmic}
                       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-
-! LaTeX Error: \begin{ALC@for} on input line 67 ended by \end{abstract}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.72 \end{abstract}
-                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.84 \end{algorithmic}
+                      
+Things are pretty mixed up, but I think the worst is over.
 
 
-! LaTeX Error: \begin{list} on input line 66 ended by \end{document}.
+! LaTeX Error: \begin{document} ended by \end{algorithmic}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.74 \end{document}
+l.84 \end{algorithmic}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.84 \end{algorithmic}
+                      
+Things are pretty mixed up, but I think the worst is over.
+
+
+! LaTeX Error: \begin{document} ended by \end{abstract}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88 \end{abstract}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[1
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.88 \end{abstract}
+                   
+Things are pretty mixed up, but I think the worst is over.
 
-{C:/Users/local/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(D:/iokr/ProgUzytkowe/m2.aux) )
-(\end occurred inside a group at level 5)
+[2] (D:\iokr\ProgUzytkowe\m2.aux) ) 
+Here is how much of TeX's memory you used:
+ 912 strings out of 494046
+ 10770 string characters out of 3145992
+ 66456 words of memory out of 3000000
+ 4221 multiletter control sequences out of 15000+200000
+ 15038 words of font info for 43 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 23i,9n,24p,158b,505s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-### semi simple group (level 5) entered at line 66 (\begingroup)
-### semi simple group (level 4) entered at line 66 (\begingroup)
-### semi simple group (level 3) entered at line 66 (\begingroup)
-### semi simple group (level 2) entered at line 62 (\begingroup)
-### semi simple group (level 1) entered at line 61 (\begingroup)
-### bottom level
-
-Here is how much of LuaTeX's memory you used:
- 1184 strings out of 495014
- 100000,89155 words of node,token memory allocated
- 321 words of node memory still in use:
-    nodes
-   avail lists: 2:15,3:68,4:627,5:84,6:339,7:20,9:268,10:1
- 4659 multiletter control sequences out of 65536+200000
- 50 fonts using 1408539 bytes
- 23i,9n,24p,156b,392s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/local/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/pl/plrm.enc}{C:/User
-s/local/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/pl/plms.enc}{C:/Users/local/
-AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/pl/plmi.enc}{C:/Users/local/AppData/
-Roaming/MiKTeX/2.9/fonts/enc/dvips/pl/plme.enc}<C:/Program Files (x86)/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/local/AppData/Roaming/Mi
-KTeX/2.9/fonts/type1/public/pl/plbx10.pfb><C:/Users/local/AppData/Roaming/MiKTe
-X/2.9/fonts/type1/public/pl/plbx12.pfb><C:/Users/local/AppData/Roaming/MiKTeX/2
-.9/fonts/type1/public/pl/plex10.pfb><C:/Users/local/AppData/Roaming/MiKTeX/2.9/
-fonts/type1/public/pl/plmi12.pfb><C:/Users/local/AppData/Roaming/MiKTeX/2.9/fon
-ts/type1/public/pl/plmi8.pfb><C:/Users/local/AppData/Roaming/MiKTeX/2.9/fonts/t
-ype1/public/pl/plr10.pfb><C:/Users/local/AppData/Roaming/MiKTeX/2.9/fonts/type1
-/public/pl/plr12.pfb><C:/Users/local/AppData/Roaming/MiKTeX/2.9/fonts/type1/pub
-lic/pl/plr6.pfb><C:/Users/local/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/p
-l/plr8.pfb><C:/Users/local/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/pls
-y10.pfb><C:/Users/local/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plsy8.
-pfb>
-Output written on m2.pdf (1 page, 64833 bytes).
-
-PDF statistics: 58 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 131072)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+Output written on m2.dvi (2 pages, 4256 bytes).

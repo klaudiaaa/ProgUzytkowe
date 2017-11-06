@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=latex 2015.2.27)  31 OCT 2017 09:53
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2015.2.27)  31 OCT 2017 11:01
 entering extended mode
-**m.tex
-(D:\iokr\ProgUzytkowe\m.tex
+**m3.tex
+(D:\iokr\ProgUzytkowe\m3.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, arabic, armenian, assamese, basque, bengali
 , bokmal, bulgarian, catalan, coptic, croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, galic
@@ -288,165 +288,129 @@ Now handling font encoding OT4 ...
    defining Unicode char U+2026 (decimal 8230)
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
-)) (D:\iokr\ProgUzytkowe\m.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-! Undefined control sequence.
-\@title ->\Wydzia 
-                  Å‚ Matematyki i Informatyki Uniwersytetu WarmiÅ„sko-Mazurs...
-l.12 \maketitle
-               
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-LaTeX Font Info:    Try loading font information for OML+plm on input line 12.
-(C:\Users\local\AppData\Roaming\MiKTeX\2.9\tex\latex\polski\omlplm.fd
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+) (D:\iokr\ProgUzytkowe\m3.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+
+(C:\Users\local\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen105
+\scratchbox=\box26
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen106
+\MPnumerator=\count92
+\makeMPintoPDFobject=\count93
+\everyMPtoPDFconversion=\toks18
+)
+LaTeX Font Info:    Try loading font information for OML+plm on input line 13.
+ (C:\Users\local\AppData\Roaming\MiKTeX\2.9\tex\latex\polski\omlplm.fd
 File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Try loading font information for OMS+plsy on input line 12.
+LaTeX Font Info:    Try loading font information for OMS+plsy on input line 13.
 
 (C:\Users\local\AppData\Roaming\MiKTeX\2.9\tex\latex\polski\omsplsy.fd
 File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Try loading font information for OMX+plex on input line 12.
+LaTeX Font Info:    Try loading font information for OMX+plex on input line 13.
 
 (C:\Users\local\AppData\Roaming\MiKTeX\2.9\tex\latex\polski\omxplex.fd
 File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <14.4> on input line 12.
+(Font)              <14.4> on input line 13.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <10> on input line 12.
+(Font)              <10> on input line 13.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <7> on input line 12.
+(Font)              <7> on input line 13.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <12> on input line 24.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <8> on input line 24.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <6> on input line 24.
 
-! Extra }, or forgotten \endgroup.
-l.16 ...itowanych, 53 doktorÃ³w i 28 magistrÃ³w. }
-                                                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-
-Overfull \hbox (20.59961pt too wide) in paragraph at lines 15--17
-[][]\OT4/cmr/bx/n/10.95 Wydziaª Ma-te-ma-ty-ki i In-for-ma-ty-ki Uni-wer-sy-te-tu Warmi«sko-
+Overfull \hbox (68.88048pt too wide) in paragraph at lines 24--36
+[][] 
  []
 
-
-Overfull \hbox (10.00185pt too wide) in paragraph at lines 15--17
-\OT4/cmr/bx/n/10.95 Mazurskiego \OT4/cmr/m/n/10.95 (WMiI) { wy-dziaª Uni-wer-sy-te-tu Warmi«sko-Mazurskiego
- []
-
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 23.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 42.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 23.
-LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <17.28> on input line 29.
-LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <12> on input line 29.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 42.
+ <BenChifley.jpg, id=1, 59.2614pt x 76.78688pt>
+File: BenChifley.jpg Graphic file (type jpg)
+
+<use BenChifley.jpg>
+Package pdftex.def Info: BenChifley.jpg used on input line 48.
+(pdftex.def)             Requested size: 284.52756pt x 368.74034pt.
  [1
 
-]
-LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <8> on input line 42.
-LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <6> on input line 42.
-
-! Undefined control sequence.
-l.46 \selection
-               {Struktura organizacyjna}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.65 \selection
-               {WÅ‚adze wydziaÅ‚u}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[2]
-! Undefined control sequence.
-l.74 \selection
-               {Historia wydziaÅ‚u}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.79 \selection
-               {Nowa siedziba WydziaÅ‚u}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Overfull \hbox (21.64998pt too wide) in paragraph at lines 86--88
-[][]\OT4/cmr/m/n/12 Projekt no-wej sie-dzi-by Wy-dzia-ªu opra-co-wa-ªa sp. z o.o. GENERAL-PROJEKT
- []
-
-[3] [4]
-Overfull \hbox (8.5778pt too wide) in paragraph at lines 136--137
-\OT4/cmr/m/n/12 da-nia pom-po-wa-nia optycz-ne-go, pro-mie-nio-wa-nia X, eks-pe-ry-men-tu Sterna-
- []
-
-[5] [6]
-! Undefined control sequence.
-l.160 \selection
-                {Adres}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.166 \selection
-                {Przypisy}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[7] (D:\iokr\ProgUzytkowe\m.aux) ) 
+{C:/Users/local/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2 <D:/iokr/ProgUzytkowe/BenChifley.jpg>] (D:\iokr\P
+rogUzytkowe\m3.aux) ) 
 Here is how much of TeX's memory you used:
- 698 strings out of 494046
- 8183 string characters out of 3145992
- 57257 words of memory out of 3000000
- 4020 multiletter control sequences out of 15000+200000
- 14516 words of font info for 42 fonts, out of 3000000 for 9000
+ 1588 strings out of 494045
+ 20363 string characters out of 3145969
+ 71993 words of memory out of 3000000
+ 4877 multiletter control sequences out of 15000+200000
+ 13357 words of font info for 39 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 23i,6n,24p,903b,194s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,7n,24p,523b,227s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/local/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/pl/plrm.enc}<C:/Program Files (x86)/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/local/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plbx12
+.pfb><C:/Users/local/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plr12.pfb>
+Output written on m3.pdf (2 pages, 77356 bytes).
+PDF statistics:
+ 23 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on m.dvi (7 pages, 20612 bytes).
