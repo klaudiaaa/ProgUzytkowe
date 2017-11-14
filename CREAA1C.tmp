@@ -1,0 +1,23 @@
+\documentclass{powerdot}
+\usepackage[MeX]{polski}
+\usepackage[utf8]{inputenc}
+\usepackage{algorithmic}
+\usepackage{graphicx}
+
+\title{Archeologia podwodna}
+\author{Klaudia Rutkowska}
+\date{\today}
+\pdsetup{trans=Split}
+
+\begin{document}
+\maketitle
+\section{D³ugo´sci odcinków}
+
+\begin{slide}{Wstêp}
+Pocz¹tków tej ga³êzi nauki nale¿y siê dopatrywaæ na prze³omie lat 1853-1854, kiedy to po raz pierwszy w Zurychu zetkniêto siê z du¿¹ iloœci¹ artefaktów, ods³oniêtych na skutek obni¿aj¹cego siê poziomu wód w jeziorach.
+
+Podobnie jak ma to miejsce na l¹dzie, badania prospekcyjne zmierzaj¹ do lokalizacji nowych i szczegó³owego rozpoznania znanych ju¿ stanowisk. Stanowiska archeologii podwodnej poszukuje siê we wszelkiego rodzaju zbiornikach wodnych od jezior, Ÿróde³ i rzek, poprzez zatopione studnie, miasta, porty, a¿ do zalanych jaskiñ, a nade wszystko morza i oceany oraz zwi¹zane z tym, wraki statków. Ze wzglêdu na du¿e zainteresowanie archeologów dwoma ostatnimi rodzajami zbiorników, archeologia podwodna czêsto okreœlana jest jako archeologia morska.
+\end{slide}
+\pdsetup{trans=Dissolve}
+
+\end{document}
